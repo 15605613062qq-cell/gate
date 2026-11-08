@@ -58,14 +58,8 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "skk.moe:443",
     "cloudflare-ech.com:443",
-    "cfsaas.080112.xyz:443",
-    "cdnjs.com:443",
-    "cloudflare.seeck.cn:443",
-    "cmcc.cloudflare.seeck.cn:443",
     "cucc.cloudflare.seeck.cn:443",
-    "ctcc.cloudflare.seeck.cn:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
